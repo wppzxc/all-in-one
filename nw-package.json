@@ -1,0 +1,19 @@
+{
+  "main": "index.html",
+  "name": "helloworld",
+  "version": "0.0.1",
+  "nodejs": true,
+  "node-remote": [ "*://*/*" ],
+  "window": {
+    "title": "helloworld",
+    "toolbar": false,
+    "position": "center",
+    "width": 1200,
+    "height": 600,
+    "resizable": true,
+    "frame": false
+  },
+  "webkit": {
+    "plugin": true
+  }
+}
